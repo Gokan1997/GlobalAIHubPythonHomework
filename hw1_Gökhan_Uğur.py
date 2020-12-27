@@ -1,0 +1,11 @@
+number1=input("Please enter a value:")
+print("Girilen değer:"+format(number1),",type of value:"+format(type(number1)))
+number2=input("Please enter a value:")
+print("Girilen değer:"+format(number2),",type of value:"+format(type(number2)))
+number3=input("Please enter a value:")
+print("Girilen değer:"+format(number3),",type of value:"+format(type(number3)))
+number4=input("Please enter a value:")
+print("Girilen değer:"+format(number4),",type of value:"+format(type(number4)))
+number5=input("Please enter a value:")
+print("Girilen değer:"+format(number5),",type of value:"+format(type(number5)))
+
